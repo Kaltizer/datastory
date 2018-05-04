@@ -30,5 +30,5 @@ Although conversations about the ethics of possessing and analyzing twitter user
 
 A link to my [data](https://github.com/Kaltizer/datastory/blob/master/data/tweets2.csv)
 
-![chart](https://github.com/umd-mith/datastory/raw/master/images/chart.png)
+![chart](https://github.com/Kaltizer/datastory/blob/master/images/TwitterChart.png)
 
