@@ -20,7 +20,7 @@
 
 #### Examples of Links
 
-A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
+A link to my [data](https://github.com/Kaltizer/datastory/blob/master/data/tweets2.csv)
 
 ![chart](https://github.com/umd-mith/datastory/raw/master/images/chart.png)
 
